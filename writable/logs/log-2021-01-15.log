@@ -1,0 +1,345 @@
+CRITICAL - 2021-01-15 11:53:13 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:53:42 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:54:00 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:06 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:07 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:08 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:08 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:08 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:08 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:55:08 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 15
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(15): view('capture\\header', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 11:57:13 --> Argument 2 passed to view() must be of the type array, string given, called in C:\wamp64\www\moldsfc\app\Controllers\Capture.php on line 17
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(17): view('capture\\footer', '')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:16:18 --> Too few arguments to function App\Controllers\Tech::validateTech(), 0 passed in C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-15 12:18:06 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('tech/validateTe...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('tech/validateTe...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:18:16 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('tech/validateTe...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('tech/validateTe...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:19:34 --> No database selected
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(1818): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('get', Array)
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-15 12:19:59 --> No database selected
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(1818): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('get', Array)
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-15 12:21:36 --> Call to undefined method App\Models\TechnicianModel::get_all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('get_all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:04 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:05 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:05 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:06 --> Call to undefined method App\Models\TechnicianModel::all
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('all', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:22 --> Call to undefined method App\Models\TechnicianModel::result
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('result', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:22:23 --> Call to undefined method App\Models\TechnicianModel::result
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('result', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:24:42 --> Call to undefined method App\Models\TechnicianModel::getResult
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:24:43 --> Call to undefined method App\Models\TechnicianModel::getResult
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:24:43 --> Call to undefined method App\Models\TechnicianModel::getResult
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:28:07 --> Call to undefined method App\Models\TechnicianModel::getResultArray
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:28:07 --> Call to undefined method App\Models\TechnicianModel::getResultArray
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:28:07 --> Call to undefined method App\Models\TechnicianModel::getResultArray
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(17): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('1')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:31:46 --> Undefined variable: data
+#0 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 19, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('216e963bf39b0b6...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 12:31:53 --> Invalid file: technician\data.php
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('technician\\data...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('technician\\data', Array, true)
+#2 C:\wamp64\www\moldsfc\app\Controllers\Tech.php(22): view('technician\\data', Array)
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tech->validateTech('216e963bf39b0b6...')
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tech))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-15 12:53:40 --> Undefined variable: turno
+#0 C:\wamp64\www\moldsfc\app\Views\capture\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 31, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('capture\\index', Array, true)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(16): view('capture\\index', Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-15 13:01:12 --> Undefined variable: statusData
+#0 C:\wamp64\www\moldsfc\app\Views\capture\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 15, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('capture\\index', Array, true)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(16): view('capture\\index', Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-15 13:01:50 --> Undefined variable: statusData
+#0 C:\wamp64\www\moldsfc\app\Views\capture\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 15, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('capture\\index', Array, true)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(16): view('capture\\index', Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-15 13:01:51 --> Undefined variable: statusData
+#0 C:\wamp64\www\moldsfc\app\Views\capture\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 15, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('capture\\index', Array, true)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(16): view('capture\\index', Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-15 13:01:52 --> Undefined variable: statusData
+#0 C:\wamp64\www\moldsfc\app\Views\capture\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\m...', 15, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('capture\\index', Array, true)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(16): view('capture\\index', Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->index()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-15 13:19:35 --> Call to undefined method App\Models\TechnicianModel::getResult
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(28): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->GetData()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 13:20:20 --> Undefined offset: 0
+#0 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\m...', 30, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->GetData()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-15 13:22:11 --> Unknown column 'technician_id' in 'field list'
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `tb...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\moldsfc\app\Controllers\Capture.php(35): CodeIgniter\Model->insert(Array)
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->GetData()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-15 13:24:34 --> Call to a member function getQuery() on integer
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Capture->GetData()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Capture))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

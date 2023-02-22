@@ -1,0 +1,3 @@
+CRITICAL - 2021-01-31 12:10:41 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-31 12:10:41 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-31 12:10:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.

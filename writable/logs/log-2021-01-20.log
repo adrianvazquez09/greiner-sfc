@@ -1,0 +1,1132 @@
+CRITICAL - 2021-01-20 11:57:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 11:57:18 --> SQLite3::query(): Unable to prepare statement: 1, no such table: db_tb_shop_screen
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'SQLite3::query(...', 'C:\\wamp64\\www\\m...', 184, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(184): SQLite3->query('SELECT *\nFROM `...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\SQLite3\Connection->execute('SELECT *\nFROM `...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\wamp64\www\moldsfc\app\Controllers\View.php(13): CodeIgniter\Model->findAll()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\View->moldShop()
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\View))
+#9 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-01-20 11:57:25 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 11:57:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 11:59:06 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:41:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:42:41 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:42:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:50:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:50:21 --> Call to undefined function App\Controllers\show_404()
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->index()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 12:50:50 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:55:34 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:55:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 12:59:45 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:00:43 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:01:02 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:01:02 --> Call to undefined method App\Models\CaptureModel::wherenot
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(19): CodeIgniter\Model->__call('wherenot', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 13:02:08 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:02:10 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:02:10 --> Call to undefined method App\Models\CaptureModel::wherenNotIn
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(19): CodeIgniter\Model->__call('wherenNotIn', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 13:03:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:04:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:07:52 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:07:52 --> Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\m...', 26, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 13:09:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:11:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:11:13 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:12:24 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:16:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:17:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:18:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:18:17 --> Undefined index: qr
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\m...', 35, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 13:18:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:18:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:19:10 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:20:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:21:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 13:21:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:22:10 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:24:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:25:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:25:14 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:26:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:26:04 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:27:10 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:27:10 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:28:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:28:12 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:32:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:32:40 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:32:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:32:59 --> Call to a member function set() on array
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 14:41:20 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:41:20 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:44:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:44:42 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:46:43 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:46:43 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(570): CodeIgniter\Model->update(Array, Array)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(44): CodeIgniter\Model->save(Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-20 14:47:02 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:47:02 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(570): CodeIgniter\Model->update(Array, Array)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(43): CodeIgniter\Model->save(Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-20 14:47:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:47:18 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(570): CodeIgniter\Model->update(Array, Array)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(41): CodeIgniter\Model->save(Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-20 14:47:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:47:55 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:47:55 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(570): CodeIgniter\Model->update(Array, Array)
+#3 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(41): CodeIgniter\Model->save(Array)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-20 14:48:26 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:48:26 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(43): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:49:41 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:49:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'finished'
+WHERE `id` = '5'' at line 1
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `tb_capt...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tb_capt...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tb_capt...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `tb_capt...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-20 14:49:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:49:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'finished'
+WHERE `id` = '5'' at line 1
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `tb_capt...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tb_capt...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tb_capt...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2456): CodeIgniter\Database\BaseConnection->query('UPDATE `tb_capt...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(39): CodeIgniter\Model->update()
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-20 14:49:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:49:51 --> syntax error, unexpected ')', expecting ']'
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('functions/calcu...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('functions/calcu...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 14:50:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:50:15 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:50:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:50:28 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:50:38 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:50:38 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:50:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:50:40 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:50:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:50:40 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:51:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:51:35 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:51:36 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:51:37 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:51:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:51:42 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:52:01 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:52:01 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:52:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:01 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:06 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:25 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:33 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:53:59 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:54:46 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:54:46 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:55:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:03 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseBuilder->validateInsert()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 14:55:11 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:11 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:12 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:12 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:12 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:16 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:16 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:16 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:16 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:16 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:16 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:17 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:17 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:17 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:18 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:18 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:55:19 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:55:19 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:45 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:45 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:47 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:47 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:48 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:48 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:49 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:52 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:52 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:52 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:52 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 14:57:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 14:57:53 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:15:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:15:31 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update(Array, Array)
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:17:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:17:28 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:17:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:17:37 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:17:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:17:37 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:17:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:17:37 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:18:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:18:28 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:18:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:18:29 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:18:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:18:29 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:18:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:18:31 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(40): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:18:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:18:44 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:20:39 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:20:39 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:20:58 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:20:58 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:20:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:20:59 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:20:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:20:59 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:20:59 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:20:59 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:00 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:00 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:00 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:02 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:02 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:03 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:03 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:03 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:03 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:04 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-20 15:21:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:27 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:28 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:28 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:29 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:29 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:29 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:30 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:30 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:30 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:31 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:21:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:21:31 --> You must use the "set" method to update an entry.
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2430): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(889): CodeIgniter\Database\BaseBuilder->update()
+#2 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(37): CodeIgniter\Model->update()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#5 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\wamp64\\www\\m...')
+#8 {main}
+CRITICAL - 2021-01-20 15:25:34 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:26:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:26:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:26:32 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:27:20 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:27:22 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:27:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:27:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 15:40:48 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:00:20 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:00:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:13:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:13:29 --> Class 'App\Models\MoldScreenHistModel' not found
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\View->moldShop()
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\View))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 16:13:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:14:26 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:14:26 --> Table 'moldsfc.tb_shop_screen_hist' doesn't exist
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\moldsfc\app\Controllers\View.php(16): CodeIgniter\Model->findAll()
+#6 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\View->moldShop()
+#7 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\View))
+#8 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-01-20 16:16:11 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:17:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:17:50 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:17:55 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:17:58 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:18:01 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:18:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:31:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:33:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:35:56 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:07 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:33 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:33 --> Call to undefined method App\Models\TechnicianModel::findone
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(85): CodeIgniter\Model->__call('findone', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->getTechnicianfromQR('216e963bf39b0b6...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 16:36:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:36:37 --> Call to undefined method App\Models\TechnicianModel::getone
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(85): CodeIgniter\Model->__call('getone', Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->getTechnicianfromQR('216e963bf39b0b6...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 16:36:40 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:37:14 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:37:14 --> Undefined index: name
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\m...', 88, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->getTechnicianfromQR('216e963bf39b0b6...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 16:37:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:37:53 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:38:08 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:38:13 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:38:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:38:36 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:38:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:40:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:40:15 --> Undefined offset: 0
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\m...', 99, Array)
+#1 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(64): App\Controllers\Functions->getStatusFromQR('5b90f6a2a6f866f...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculationsMoldScreen()
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#4 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-20 16:40:35 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:40:35 --> Undefined offset: 0
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\m...', 99, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->getStatusFromQR('216e963bf39b0b6...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 16:40:49 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:41:15 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:42:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:45:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:45:50 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:46:09 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:47:31 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:48:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:49:01 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:51:26 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:52:08 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:52:08 --> Undefined index: product_description
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\m...', 98, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->getMoldFromQR('4c83b615b377d81...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 16:52:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:52:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 16:52:43 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:07:27 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:13:01 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:17:13 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:17:25 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:17:37 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:18:19 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:19:06 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:19:30 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:21:00 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:21:00 --> Too few arguments to function App\Controllers\Functions::calculateProgress(), 2 passed in C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculateProgress('6f08fb27db4f109...', 'a')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 17:21:06 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:21:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:24:36 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:51:54 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:57:08 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 17:57:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:02:20 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:02:48 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:04:04 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:04:18 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:04:28 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:05:51 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:05:51 --> syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';'
+#0 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('functions/calcu...')
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('functions/calcu...')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 18:05:57 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:05:57 --> Use of undefined constant Ydm - assumed 'Ydm' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\moldsfc\app\Controllers\Functions.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\m...', 149, Array)
+#1 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Functions->calculateProgress('6f08fb27db4f109...', 'critico', '20091202')
+#2 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Functions))
+#3 C:\wamp64\www\moldsfc\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\moldsfc\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 18:06:03 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:06:10 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:06:21 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:06:29 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:06:36 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:06:44 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:07:08 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:07:17 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:07:23 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:24:42 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
+CRITICAL - 2021-01-20 18:24:58 --> Toolbar collector does not exists(CodeIgniter\Debug\Toolbar\Collectors\Cache).please check $collectors in the Config\Toolbar.php file.
